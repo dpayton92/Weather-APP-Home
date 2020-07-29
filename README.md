@@ -1,1 +1,27 @@
 # Weather-APP-Home
+Weather Dashboard App
+A weather dashboard with search functionality to find current weather conditions and the future weather outlook for multiple cities.
+
+Purpose
+Build my first app using an API. Retrieve data from a third-party weather API (OpenWeather API) and using it in context.
+
+Functionality
+Build a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities.
+
+Deployed Link
+
+App Demo
+User Input - click search
+User Input
+
+Displayed City Search
+Display Search
+
+Saved Recent Searches
+Save Search
+
+Technologies Used
+JavaScript
+OpenWeather API
+HTML
+CSS
